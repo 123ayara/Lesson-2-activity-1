@@ -1,0 +1,5 @@
+print("Welcome to the programming world")
+print("Hello world, my name is Ayara")
+print("I like to crochet, paint, and play volleyball")
+print("The result of 3 + 5 is",3+5)
+print(4 + 17 - 6)
